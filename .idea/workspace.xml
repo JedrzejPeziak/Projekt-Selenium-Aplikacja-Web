@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2f764a0-e8bf-4e93-baa2-1edd9e1b9eac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xt7JknC5lPsin14MJ9alPum2Rz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for favourite_count_test.ContactFormTest.test_engine_search">
+    <configuration name="Unittests for contact_form_test.ContactFormTest.test_engine_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PROJEKT SELENIUM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;contact_form_test.ContactFormTest.test_engine_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for favourite_count_test.ContactFormTest.test_engine_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PROJEKT SELENIUM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;favourite_count_test.ContactFormTest.test_engine_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for search_engine_test.SearchEngineTest.test_engine_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PROJEKT SELENIUM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;search_engine_test.SearchEngineTest.test_engine_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for send_investition_question.SendQuestionTest.test_engine_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PROJEKT SELENIUM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;send_investition_question.SendQuestionTest.test_engine_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in favourite_count_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PROJEKT SELENIUM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/favourite_count_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for favourite_count_test.ContactFormTest.test_engine_search" />
+        <item itemvalue="Python tests.Unittests for send_investition_question.SendQuestionTest.test_engine_search" />
+        <item itemvalue="Python tests.Unittests for search_engine_test.SearchEngineTest.test_engine_search" />
+        <item itemvalue="Python tests.Unittests in favourite_count_test.py" />
+        <item itemvalue="Python tests.Unittests for contact_form_test.ContactFormTest.test_engine_search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f764a0-e8bf-4e93-baa2-1edd9e1b9eac" name="Default Changelist" comment="" />
+      <created>1581853466826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581853466826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581868397889">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state x="453" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.923@70.27.1850.923" timestamp="1581868397889" />
+    <state x="692" y="293" width="616" height="404" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582142938876">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state x="692" y="293" width="616" height="404" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1850.923@70.27.1850.923" timestamp="1582142938876" />
+    <state x="728" y="237" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582478216863">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state x="728" y="237" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.1850.923@70.27.1850.923" timestamp="1582478216863" />
+    <state width="1827" height="211" key="GridCell.Tab.0.bottom" timestamp="1582750834970">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state width="1827" height="211" key="GridCell.Tab.0.bottom/70.27.1850.923@70.27.1850.923" timestamp="1582750834970" />
+    <state width="1827" height="211" key="GridCell.Tab.0.center" timestamp="1582750834968">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state width="1827" height="211" key="GridCell.Tab.0.center/70.27.1850.923@70.27.1850.923" timestamp="1582750834968" />
+    <state width="1827" height="211" key="GridCell.Tab.0.left" timestamp="1582750834967">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state width="1827" height="211" key="GridCell.Tab.0.left/70.27.1850.923@70.27.1850.923" timestamp="1582750834967" />
+    <state width="1827" height="211" key="GridCell.Tab.0.right" timestamp="1582750834969">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state width="1827" height="211" key="GridCell.Tab.0.right/70.27.1850.923@70.27.1850.923" timestamp="1582750834969" />
+    <state x="651" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1582739003339">
+      <screen x="70" y="27" width="1850" height="923" />
+    </state>
+    <state x="651" y="316" key="com.intellij.ide.util.TipDialog/70.27.1850.923@70.27.1850.923" timestamp="1582739003339" />
+  </component>
+</project>
