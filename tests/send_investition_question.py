@@ -10,7 +10,7 @@ from tests.base_test import BaseTest
 
 class SendQuestionTest(BaseTest):
     """ TC.4 """
-    def test_engine_search(self):
+    def test_investition_question(self):
         MainPage(self.driver).click_search_button()
 
         SearchPage(self.driver).wait_for_page_to_load()

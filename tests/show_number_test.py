@@ -8,7 +8,7 @@ from tests.base_test import BaseTest
 
 class ShowNumberTest(BaseTest):
     """ TC.5 """
-    def test_engine_search(self):
+    def test_show_number(self):
         MainPage(self.driver).click_search_button()
 
         SearchPage(self.driver).wait_for_page_to_load()

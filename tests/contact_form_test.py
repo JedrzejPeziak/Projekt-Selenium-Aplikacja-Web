@@ -9,7 +9,7 @@ from tests.base_test import BaseTest
 
 class ContactFormTest(BaseTest):
     """ TC.1 """
-    def test_engine_search(self):
+    def test_contact_form(self):
         MainPage(self.driver).click_contact_button()
 
         ContactPage(self.driver).wait_for_page_to_load()
